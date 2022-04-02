@@ -14,4 +14,10 @@ If you want to contribute to this list (please do), send a pull request with the
 
 ### Transportation
 * 🇺🇸 [Argo AI](https://www.argo.ai/)
+* 🇺🇸 [Cruise](https://www.getcruise.com/)
+* 🇺🇸 [KeepTruckin](https://keeptruckin.com/)
+* 🇨🇳 [Pony.ai](https://pony.ai/)
+* 🇺🇸 [Zoox](https://zoox.com/)
+
+
 
