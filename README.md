@@ -1,6 +1,8 @@
 # AI100
 A curated list of private **AI** (*deep learning*) startups that have **annual revenue of $100 million or more**.
 
+TODO: Insert image of landscape here.
+
 If you want to contribute to this list (please do), send a pull request along with the following information: 
 * Company Name and website (URL).
 * Links to references that document annual revenue.
