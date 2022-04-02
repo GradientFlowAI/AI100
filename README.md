@@ -5,8 +5,14 @@ If you want to contribute to this list (please do), send a pull request with the
 * Company Name
 * Link to a page that documents annual revenue.
 
-# The AI $100 Miliion Revenue Club
+# The AI $100 Million Revenue Club
 ## Application
+### Healthcare
+* 🇺🇸 [Innovacer](https://innovaccer.com/)
+* 🇺🇸 [Komodo Health](https://www.komodohealth.com/)
+* 🇺🇸 [Olive AI](https://oliveai.com/)
+* 🇺🇸 [Tempus](https://www.tempus.com/)
+
 ### Media / Security / IoT
 * 🇨🇳 [ByteDance](https://www.bytedance.com/en/)
 * 🇺🇸 [Exabeam](https://www.exabeam.com/)
