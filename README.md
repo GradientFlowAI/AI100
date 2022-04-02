@@ -2,7 +2,7 @@
 A curated list of private **AI** (*deep learning*) startups that have **annual revenue of $100 million or more**.
 
 If you want to contribute to this list (please do), send a pull request with the following information: 
-* Company Name
+* Company Name and website (URL).
 * Links to references that document annual revenue.
 
 # The AI $100 Million Revenue Club
