@@ -7,6 +7,16 @@ If you want to contribute to this list (please do), send a pull request with the
 
 # The AI $100 Million Revenue Club
 ## Application
+### Enterpise Software
+* 🇺🇸 [6sense](https://6sense.com/)
+* 🇺🇸 [Dialpad](https://www.dialpad.com/)
+* 🇺🇸 [eightfold](https://eightfold.ai/)
+* 🇺🇸🇮🇱 [Gong](https://www.gong.io/)
+* 🇺🇸 [Highspot](https://www.highspot.com/)
+* 🇺🇸 [Outreach](https://www.outreach.io/)
+* 🇺🇸 [ThoughtSpot](https://www.thoughtspot.com/)
+* 🇮🇱 [Verbit](https://verbit.ai/)
+
 ### Healthcare
 * 🇺🇸 [Innovacer](https://innovaccer.com/)
 * 🇺🇸 [Komodo Health](https://www.komodohealth.com/)
