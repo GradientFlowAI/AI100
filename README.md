@@ -35,5 +35,13 @@ If you want to contribute to this list (please do), send a pull request with the
 * 🇨🇳 [Pony.ai](https://pony.ai/)
 * 🇺🇸 [Zoox](https://zoox.com/)
 
+## Other
+### Infrastructure
+* 🇺🇸 [Databricks](https://databricks.com/)
+* 🇺🇸🇫🇷 [Dataiku](https://www.dataiku.com/)
+* 🇺🇸 [DataRobot](https://www.datarobot.com/)
+* 🇺🇸 [OpenAI](https://openai.com/)
+* 🇺🇸 [Scale](https://scale.com/)
+
 
 
