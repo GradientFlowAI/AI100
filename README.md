@@ -43,5 +43,13 @@ If you want to contribute to this list (please do), send a pull request with the
 * 🇺🇸 [OpenAI](https://openai.com/)
 * 🇺🇸 [Scale](https://scale.com/)
 
+### Hardware
+* 🇬🇧 [Graphcore](https://www.graphcore.ai/)
+* 🇺🇸 [Lambda](https://lambdalabs.com/)
+
+### Services
+* 🇨🇳 [Squirrel AI](http://squirrelai.com/)
+* 🇺🇸 [Uptake](https://www.uptake.com/)
+
 
 
