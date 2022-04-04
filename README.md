@@ -1,7 +1,7 @@
 # AI100
 A curated list of private **AI** (*deep learning*) startups that have **annual revenue of $100 million or more**.
 
-TODO: Insert image of landscape here.
+![The AI $100 Million Revenue Club](https://gradientflow.com/wp-content/uploads/2022/04/AI100-Bignum_2022-04-04.png)
 
 If you want to contribute to this list of [Bignum](https://www.techopedia.com/definition/6198/bignum) startups (please do), send a pull request along with the following information: 
 * Company Name and website (URL).
