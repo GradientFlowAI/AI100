@@ -25,7 +25,7 @@ If you want to contribute to this list of [Bignum](https://www.techopedia.com/de
 ### Healthcare
 * 🇺🇸 [Innovacer](https://innovaccer.com/)
 * 🇺🇸 [Komodo Health](https://www.komodohealth.com/)
-* 🇺🇸 [Olive AI](https://oliveai.com/) (" ... the automation company creating the internet of healthcare.")
+* 🇺🇸 [Olive AI](https://oliveai.com/) (" ... the automation company creating the internet of healthcare")
 * 🇺🇸 [Tempus](https://www.tempus.com/)
 
 ### Media / Security / IoT
