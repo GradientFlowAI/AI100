@@ -25,7 +25,7 @@ If you want to contribute to this list of [Bignum](https://www.techopedia.com/de
 ### Healthcare
 * 🇺🇸 [Innovacer](https://innovaccer.com/)
 * 🇺🇸 [Komodo Health](https://www.komodohealth.com/)
-* 🇺🇸 [Olive AI](https://oliveai.com/)
+* 🇺🇸 [Olive AI](https://oliveai.com/) (" ... the automation company creating the internet of healthcare.")
 * 🇺🇸 [Tempus](https://www.tempus.com/)
 
 ### Media / Security / IoT
@@ -34,7 +34,7 @@ If you want to contribute to this list of [Bignum](https://www.techopedia.com/de
 * 🇨🇳 [Megvii](https://en.megvii.com/)
 
 ### Transportation
-* 🇺🇸 [Argo AI](https://www.argo.ai/)
+* 🇺🇸 [Argo AI](https://www.argo.ai/) ("We're building self-driving cars and services to make the world's streets and roadways safe and accessible")
 * 🇺🇸 [Cruise](https://www.getcruise.com/)
 * 🇺🇸 [KeepTruckin](https://keeptruckin.com/)
 * 🇨🇳 [Pony.ai](https://pony.ai/)
@@ -42,7 +42,7 @@ If you want to contribute to this list of [Bignum](https://www.techopedia.com/de
 
 ## Other
 ### Infrastructure
-* 🇺🇸 [Databricks](https://databricks.com/)
+* 🇺🇸 [Databricks](https://databricks.com/) ("All your data, analytics and AI on one platform")
 * 🇺🇸🇫🇷 [Dataiku](https://www.dataiku.com/)
 * 🇺🇸 [DataRobot](https://www.datarobot.com/)
 * 🇺🇸 [Scale](https://scale.com/)
