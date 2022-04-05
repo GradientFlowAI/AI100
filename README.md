@@ -42,7 +42,6 @@ If you want to contribute to this list of [Bignum](https://www.techopedia.com/de
 * 🇺🇸 [Databricks](https://databricks.com/)
 * 🇺🇸🇫🇷 [Dataiku](https://www.dataiku.com/)
 * 🇺🇸 [DataRobot](https://www.datarobot.com/)
-* 🇺🇸 [OpenAI](https://openai.com/)
 * 🇺🇸 [Scale](https://scale.com/)
 
 ### Hardware
