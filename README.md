@@ -23,37 +23,37 @@ If you want to contribute to this list of [Bignum](https://www.techopedia.com/de
 * 🇮🇱 [Verbit](https://verbit.ai/) ("Professional AI-based transcriptioning")
 
 ### Healthcare
-* 🇺🇸 [Innovacer](https://innovaccer.com/)
-* 🇺🇸 [Komodo Health](https://www.komodohealth.com/)
+* 🇺🇸 [Innovacer](https://innovaccer.com/) ("Healthcare data platform")
+* 🇺🇸 [Komodo Health](https://www.komodohealth.com/) ("Connected Insights Drive Success")
 * 🇺🇸 [Olive AI](https://oliveai.com/) (" ... the automation company creating the internet of healthcare")
-* 🇺🇸 [Tempus](https://www.tempus.com/)
+* 🇺🇸 [Tempus](https://www.tempus.com/) ("Data-driven precision medicine")
 
 ### Media / Security / IoT
-* 🇨🇳 [ByteDance](https://www.bytedance.com/en/)
-* 🇺🇸 [Exabeam](https://www.exabeam.com/)
+* 🇨🇳 [ByteDance](https://www.bytedance.com/en/) ("Inspire Creativity, Enrich Life")
+* 🇺🇸 [Exabeam](https://www.exabeam.com/) ("Eliminate your blindspots and respond to threats faster and more accurately")
 * 🇨🇳 [Megvii](https://en.megvii.com/)
 
 ### Transportation
 * 🇺🇸 [Argo AI](https://www.argo.ai/) ("We're building self-driving cars and services to make the world's streets and roadways safe and accessible")
-* 🇺🇸 [Cruise](https://www.getcruise.com/)
-* 🇺🇸 [KeepTruckin](https://keeptruckin.com/)
-* 🇨🇳 [Pony.ai](https://pony.ai/)
-* 🇺🇸 [Zoox](https://zoox.com/)
+* 🇺🇸 [Cruise](https://www.getcruise.com/) ("We’re building self-driving vehicles to improve life in our cities")
+* 🇺🇸 [KeepTruckin](https://keeptruckin.com/) ("Everything you need to manage your fleet. All in one place.")
+* 🇨🇳 [Pony.ai](https://pony.ai/) ("Autonomous Mobility Everywhere")
+* 🇺🇸 [Zoox](https://zoox.com/) ("The future is for riders")
 
 ## Other
 ### Infrastructure
 * 🇺🇸 [Databricks](https://databricks.com/) ("All your data, analytics and AI on one platform")
-* 🇺🇸🇫🇷 [Dataiku](https://www.dataiku.com/)
-* 🇺🇸 [DataRobot](https://www.datarobot.com/)
-* 🇺🇸 [Scale](https://scale.com/)
+* 🇺🇸🇫🇷 [Dataiku](https://www.dataiku.com/) ("Everyday AI, Extraordinary People")
+* 🇺🇸 [DataRobot](https://www.datarobot.com/)("AI Cloud is a new approach built for the demands, challenges and opportunities of AI today")
+* 🇺🇸 [Scale](https://scale.com/) ("Better Data. Better AI.")
 
 ### Hardware
-* 🇬🇧 [Graphcore](https://www.graphcore.ai/)
-* 🇺🇸 [Lambda](https://lambdalabs.com/)
+* 🇬🇧 [Graphcore](https://www.graphcore.ai/) ("World’s most advanced AI system for performance & power efficiency at scale")
+* 🇺🇸 [Lambda](https://lambdalabs.com/) ("GPU compute built for deep learning")
 
 ### Services
-* 🇨🇳 [Squirrel AI](http://squirrelai.com/)
-* 🇺🇸 [Uptake](https://www.uptake.com/)
+* 🇨🇳 [Squirrel AI](http://squirrelai.com/) ("AI-powered K-12 adaptive instructional system and services")
+* 🇺🇸 [Uptake](https://www.uptake.com/) ("Industrial Intelligence that works for you")
 
 
 
