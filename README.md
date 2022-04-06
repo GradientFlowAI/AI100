@@ -31,7 +31,7 @@ If you want to contribute to this list of [Bignum](https://www.techopedia.com/de
 ### Media / Security / IoT
 * 🇨🇳 [ByteDance](https://www.bytedance.com/en/) ("Inspire Creativity, Enrich Life")
 * 🇺🇸 [Exabeam](https://www.exabeam.com/) ("Eliminate your blindspots and respond to threats faster and more accurately")
-* 🇨🇳 [Megvii](https://en.megvii.com/)
+* 🇨🇳 [Megvii](https://en.megvii.com/) ("Create machines that can see and think")
 
 ### Transportation
 * 🇺🇸 [Argo AI](https://www.argo.ai/) ("We're building self-driving cars and services to make the world's streets and roadways safe and accessible")
