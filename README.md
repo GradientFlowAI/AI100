@@ -44,7 +44,7 @@ If you want to contribute to this list of [Bignum](https://www.techopedia.com/de
 ### Infrastructure
 * 🇺🇸 [Databricks](https://databricks.com/) ("All your data, analytics and AI on one platform")
 * 🇺🇸🇫🇷 [Dataiku](https://www.dataiku.com/) ("Everyday AI, Extraordinary People")
-* 🇺🇸 [DataRobot](https://www.datarobot.com/)("AI Cloud is a new approach built for the demands, challenges and opportunities of AI today")
+* 🇺🇸 [DataRobot](https://www.datarobot.com/) ("AI Cloud is a new approach built for the demands, challenges and opportunities of AI today")
 * 🇺🇸 [Scale](https://scale.com/) ("Better Data. Better AI.")
 
 ### Hardware
