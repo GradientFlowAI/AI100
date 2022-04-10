@@ -10,7 +10,7 @@ If you want to contribute to this list of **Pegacorn**<sup>1</sup> startups (ple
 * Company Name and website (URL).
 * Links to references that document annual revenue.
 
-# The AI $100 Million Revenue Club
+# The AI Pegacorn Club
 ## Application
 ### Enterpise Software
 * 🇺🇸 [6sense](https://6sense.com/) ("Helps B2B organizations achieve predictable revenue growth")
