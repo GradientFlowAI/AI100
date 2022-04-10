@@ -4,7 +4,7 @@ by [Kenn So](https://www.linkedin.com/in/kenndanielso/) and [Ben Lorica](https:/
 
 A curated list of private **AI** (*deep learning*) startups that have **annual revenue of $100 million or more**.
 
-![The AI $100 Million Revenue Club](https://gradientflow.com/wp-content/uploads/2022/04/AI100-Bignum-2022-04-04.png)
+![The AI $100 Million Revenue Club](https://gradientflow.com/wp-content/uploads/2022/04/AI-Pegacorn-club.png)
 
 If you want to contribute to this list of **Pegacorn**<sup>1</sup> startups (please do), use the [submission form on our blog post](https://gradientflow.com/the-ai-100m-club/) or send a pull request along with the following information: 
 * Company Name and website (URL).
