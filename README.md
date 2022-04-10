@@ -6,7 +6,7 @@ A curated list of private **AI** (*deep learning*) startups that have **annual r
 
 ![The AI $100 Million Revenue Club](https://gradientflow.com/wp-content/uploads/2022/04/AI100-Bignum-2022-04-04.png)
 
-If you want to contribute to this list of pivotal startups (please do), use the [submission form on our blog post](https://gradientflow.com/the-ai-100m-club/) or send a pull request along with the following information: 
+If you want to contribute to this list of **Pegacorn**<sup>1</sup> startups (please do), use the [submission form on our blog post](https://gradientflow.com/the-ai-100m-club/) or send a pull request along with the following information: 
 * Company Name and website (URL).
 * Links to references that document annual revenue.
 
@@ -54,6 +54,8 @@ If you want to contribute to this list of pivotal startups (please do), use the 
 ### Services
 * 🇨🇳 [Squirrel AI](http://squirrelai.com/) ("AI-powered K-12 adaptive instructional system and services")
 * 🇺🇸 [Uptake](https://www.uptake.com/) ("Industrial Intelligence that works for you")
+---
+[1] [Pegacorn](https://en.wikipedia.org/wiki/Winged_unicorn) is a flying (winged) unicorn.
 
 
 
