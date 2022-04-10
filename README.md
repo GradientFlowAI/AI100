@@ -55,7 +55,7 @@ If you want to contribute to this list of **Pegacorn**<sup>1</sup> startups (ple
 * 🇨🇳 [Squirrel AI](http://squirrelai.com/) ("AI-powered K-12 adaptive instructional system and services")
 * 🇺🇸 [Uptake](https://www.uptake.com/) ("Industrial Intelligence that works for you")
 ---
-[1] [Pegacorn](https://en.wikipedia.org/wiki/Winged_unicorn) is a flying (winged) unicorn.
+[1] A [Pegacorn](https://en.wikipedia.org/wiki/Winged_unicorn) is a flying (winged) unicorn.
 
 
 
