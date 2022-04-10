@@ -6,7 +6,7 @@ A curated list of private **AI** (*deep learning*) startups that have **annual r
 
 ![The AI $100 Million Revenue Club](https://gradientflow.com/wp-content/uploads/2022/04/AI100-Bignum-2022-04-04.png)
 
-If you want to contribute to this list of [Bignum](https://www.techopedia.com/definition/6198/bignum) startups (please do), use the [submission form on our blog post](https://gradientflow.com/the-ai-100m-club/) or send a pull request along with the following information: 
+If you want to contribute to this list of pivotal startups (please do), use the [submission form on our blog post](https://gradientflow.com/the-ai-100m-club/) or send a pull request along with the following information: 
 * Company Name and website (URL).
 * Links to references that document annual revenue.
 
