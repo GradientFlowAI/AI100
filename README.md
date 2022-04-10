@@ -1,6 +1,6 @@
-# AI100
+# AI $100 Million Revenue Club
 by [Kenn So](https://www.linkedin.com/in/kenndanielso/) and [Ben Lorica](https://gradientflow.com/blog/) 
-> Blog post: ["The AI $100M Club"](https://gradientflow.com/the-ai-100m-club/)
+> Blog post: ["The AI $100M Revenue Club"](https://gradientflow.com/the-ai-100m-club/)
 
 A curated list of private **AI** (*deep learning*) startups that have **annual revenue of $100 million or more**.
 
