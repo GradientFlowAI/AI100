@@ -1,12 +1,12 @@
 # AI $100 Million Revenue Club
 by [Kenn So](https://www.linkedin.com/in/kenndanielso/) and [Ben Lorica](https://gradientflow.com/blog/) 
-> Blog post: ["The AI $100M Revenue Club"](https://gradientflow.com/the-ai-100m-club/)
+> Blog post: ["The AI $100M Revenue Club"](https://gradientflow.com/the-ai-100m-revenue-club)
 
 A curated list of private **AI** (*deep learning*) startups that have **annual revenue of $100 million or more**.
 
 ![The AI $100 Million Revenue Club](https://gradientflow.com/wp-content/uploads/2022/04/AI-Pegacorn-club.png)
 
-If you want to contribute to this list of **Pegacorn**<sup>1</sup> startups (please do), use the [submission form on our blog post](https://gradientflow.com/the-ai-100m-club/) or send a pull request along with the following information: 
+If you want to contribute to this list of **Pegacorn**<sup>1</sup> startups (please do), use the [submission form on our blog post](https://gradientflow.com/the-ai-100m-revenue-club) or send a pull request along with the following information: 
 * Company Name and website (URL).
 * Links to references that document annual revenue.
 
