@@ -6,7 +6,7 @@ A curated list of private **AI** (*deep learning*) startups that have **annual r
 
 ![The AI $100 Million Revenue Club](https://gradientflow.com/wp-content/uploads/2022/04/AI-Pegacorn-club.png)
 
-If you want to contribute to this list of **Pegacorn**<sup>1</sup> startups (please do), use the [submission form on our blog post](https://gradientflow.com/the-ai-100m-revenue-club) or send a pull request along with the following information: 
+If you want to contribute to this list of *flying unicorns* (**Pegacorns**<sup>1</sup>), use the [submission form on our blog post](https://gradientflow.com/the-ai-100m-revenue-club) or send a pull request along with the following information: 
 * Company Name and website (URL).
 * Links to references that document annual revenue.
 
