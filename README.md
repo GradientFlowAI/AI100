@@ -12,7 +12,7 @@ If you want to contribute to this list of *flying unicorns* (**Pegacorns**<sup>1
 
 # The AI Pegacorn Club
 ## Application
-### Enterpise Software
+### Enterprise Software
 * 🇺🇸 [6sense](https://6sense.com/) ("Helps B2B organizations achieve predictable revenue growth")
 * 🇺🇸 [Dialpad](https://www.dialpad.com/) ("One workspace for team and customer communications")
 * 🇺🇸 [eightfold](https://eightfold.ai/) ("AI talent management")
