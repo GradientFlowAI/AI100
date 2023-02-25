@@ -22,6 +22,9 @@ If you want to contribute to this list of *flying unicorns* (**Pegacorns**<sup>1
 * 🇺🇸 [ThoughtSpot](https://www.thoughtspot.com/) ("Modern analytics cloud")
 * 🇮🇱 [Verbit](https://verbit.ai/) ("Professional AI-based transcriptioning")
 
+### Financial Services
+* 🇺🇸 [At-Bay](https://www.at-bay.com/) ("Insurance for the Digital Age")
+
 ### Healthcare
 * 🇺🇸 [Innovacer](https://innovaccer.com/) ("Healthcare data platform")
 * 🇺🇸 [Komodo Health](https://www.komodohealth.com/) ("Connected Insights Drive Success")
@@ -33,6 +36,9 @@ If you want to contribute to this list of *flying unicorns* (**Pegacorns**<sup>1
 * 🇺🇸 [Exabeam](https://www.exabeam.com/) ("Eliminate your blindspots and respond to threats faster and more accurately")
 * 🇨🇳 [Megvii](https://en.megvii.com/) ("Create machines that can see and think")
 
+### Security
+* 🇺🇸 [Anduril](https://www.anduril.com/) ("Transforming defense capabilities with advanced technology")
+
 ### Transportation
 * 🇺🇸 [Argo AI](https://www.argo.ai/) ("We're building self-driving cars and services to make the world's streets and roadways safe and accessible")
 * 🇺🇸 [Cruise](https://www.getcruise.com/) ("We’re building self-driving vehicles to improve life in our cities")
@@ -42,6 +48,7 @@ If you want to contribute to this list of *flying unicorns* (**Pegacorns**<sup>1
 
 ## Other
 ### Infrastructure
+* 🇺🇸🇫🇷 [Algolia](https://www.algolia.com/) ("Powering Discovery for your world")
 * 🇺🇸 [Databricks](https://databricks.com/) ("All your data, analytics and AI on one platform")
 * 🇺🇸🇫🇷 [Dataiku](https://www.dataiku.com/) ("Everyday AI, Extraordinary People")
 * 🇺🇸 [DataRobot](https://www.datarobot.com/) ("AI Cloud is a new approach built for the demands, challenges and opportunities of AI today")
